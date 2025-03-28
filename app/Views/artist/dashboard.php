@@ -42,7 +42,7 @@
     <aside class="sidebar">
         <h3 class="text-center">Artist Panel</h3>
         <a href="<?= site_url('artist/dashboard') ?>">Dashboard</a>
-        <a href="<?= site_url('artist') ?>">Artists List</a>
+        <!-- <a href="<?= site_url('artist') ?>">Artists List</a> -->
         <!-- <a href="<?= site_url('artist/create') ?>">Add New Artist</a> -->
         <a href="<?= site_url('artist/logout') ?>" class="text-danger">Logout</a>
 
