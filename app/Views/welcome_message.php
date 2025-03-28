@@ -110,8 +110,8 @@
         <h2>Dashboard</h2>
         <nav>
             <ul>
-                <li><a href="admin/login">Admin</a></li>
-                <li><a href="artist/login">Artist</a></li>
+                <li><a href="admin/login">Admin Login</a></li>
+                <li><a href="artist/login">Artist Login</a></li>
             </ul>
         </nav>
     </aside>
@@ -121,8 +121,8 @@
    
 
         <div class="buttons">
-        <a href="<?= base_url('admin/login') ?>" class="btn">Admin</a>
-        <a href="<?= base_url('artist/create') ?>" class="btn">Artist</a>
+        <a href="<?= base_url('admin/login') ?>" class="btn">Admin Login</a>
+        <a href="<?= base_url('artist/create') ?>" class="btn">Artist Register</a>
 
         </div>
     </main>

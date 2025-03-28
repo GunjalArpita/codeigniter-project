@@ -77,7 +77,7 @@
         <!-- Dashboard Content -->
         <div class="container mt-4">
             <h2>Dashboard</h2>
-            <p>Welcome to the Artist Management System.</p>
+            <p>Welcome to the Art Gallery Management System.</p>
         </div>
     </div>
 
